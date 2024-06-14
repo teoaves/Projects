@@ -1,2 +1,1 @@
-# Projects
-My projects in Coding Factory
+Welcome to my GitHub repository! Here, I showcase a variety of programming projects and exercises that I have developed. Whether it's solving algorithmic challenges, building applications, or experimenting with new technologies, each project reflects my journey and growth as a software developer.
